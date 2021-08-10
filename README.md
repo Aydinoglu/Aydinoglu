@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋, I'm Tuna</h1>
 <h3 align="center">A Web and Backend Developer...</h3>
-<h3 align="center">My currently account [GITHUB](https://github.com/TunahanAydinoglu)</h3>
 
-- 🔭 I’m currently learning **.Net Core & Go Lang**
+- My currently [github account](https://github.com/TunahanAydinoglu/)
+
+- 🔭 I’m currently learning **Go Lang**
 
 - 🌱 I’m currently developing **.Net Core, React JS**
 
